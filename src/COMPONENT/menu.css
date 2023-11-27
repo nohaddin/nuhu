@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+.nuhu{
+    margin-top: 150px;
+    width: 44px;
+    height: 44px;
+    background-color: black;
+}
